@@ -3,7 +3,7 @@
 > Based on our new knowledge of ruby, we attempted to make a sorting method using the [bubble sort algorithm ](https://en.wikipedia.org/wiki/Bubble_sort), this is our result.
 
 (Please keep in mind the style required in the terminal)
-![image](https://user-images.githubusercontent.com/44252641/71426126-f1013b00-266a-11ea-8a54-19211380c425.png)
+![image](https://user-images.githubusercontent.com/44252641/71426454-6242ed00-266f-11ea-866d-66a78ac57b12.png)
 
 
 > The only things we modified from the original are some of the breakpoints to complay with the microverse specifications.
